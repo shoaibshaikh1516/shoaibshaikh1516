@@ -1,9 +1,9 @@
 # 💫 About Me:
 I am a Big Data developer with 7 years (Spring Boot, AWS and Big data)<br>
 ● I have worked with<br>
-o PayPal for Payments vertical,<br>
-o ICE for Stock exchange index data,<br>
-o IQVIA for medical product.<br>
+  o PayPal for Payments vertical,<br>
+  o ICE for Stock exchange index data,<br>
+  o IQVIA for medical product.<br>
 ● Engineered highly scalable data pipeline, high throughput, distributed applications using the right technologies.<br>
 ● Known for driving architecture, setting standards, and mentoring while collaborating with business and product teams<br>
 ● Scaled an application to handle over 1.8 billion per day, up from 100k requests per day. Saved S3 storage cost by ~63.19%
